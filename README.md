@@ -8,6 +8,8 @@ Ce projet se concentre sur la planification et la gestion du développement d'un
 ## Téléchargements :file_folder:
 
 - [Télécharger les spécifications techniques](https://github.com/der411/Projet-7_Planification_Agile/raw/main/Vaitilingom_Vincent_1_specifications_techniques_072024.odt)
+- [Télécharger la veille technologique](https://github.com/der411/Projet-7_Planification_Agile/blob/main/Vaitilingom_Vincent_3_veille_072024.pdf)
+- [Télécharger le support de présentation](https://github.com/der411/Projet-7_Planification_Agile/blob/main/Vaitilingom_Vincent_4_presentation_072024.odp)
 
 ## Tableau Kanban :clipboard:
 
